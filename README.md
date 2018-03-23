@@ -1,4 +1,4 @@
-# rice_time_series
+# Forecasting Rice Prices
 
 These scripts do a multivariate time-series analysis on Rice prices. The project uses conversion to stationary, ARIMA models, multivariate analysis and ARCG-GARCH fitting for non-constant variance. I was one of the four members responsible for the academic project.
 
